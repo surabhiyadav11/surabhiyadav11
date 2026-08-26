@@ -29,7 +29,11 @@
 
 ### 💬 Ask Me About
 
-HTML • CSS • JavaScript • Python • C++ • Git • GitHub • Web Development
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,c++,python,cpp,git,github,vscode" />
+</p>
 
 ### 🌐 My Portfolio
 
