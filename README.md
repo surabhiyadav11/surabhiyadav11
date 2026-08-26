@@ -32,7 +32,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c++,python,cpp,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,cpp,git,github,vscode" />
 </p>
 
 ### 🌐 My Portfolio
