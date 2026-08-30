@@ -1,32 +1,30 @@
-
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Surabhi%20Yadav&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20AI%20%26%20Web%20Enthusiast%20%7C%20Creating%20Beyond%20Code&descAlignY=62&descSize=17&animation=twinkling" width="100%"/>
 
 <br>
 
-<a href="https://readme-typing-svg.demolab.com/">
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=2C5364&center=true&vCenter=true&width=750&lines=Building+Ideas+Into+Reality+%F0%9F%9A%80;Exploring+Web+%26+AI+Technologies+%F0%9F%A4%96;Learning+DSA+One+Problem+at+a+Time+%F0%9F%A7%A0;Creating+Beyond+Code+%E2%9C%A8;Always+Learning.+Always+Building.+%F0%9F%94%A5" alt="Typing Animation"/>
-</a>
 
 <br><br>
 
+<!-- PORTFOLIO FIRST -->
+
 <a href="https://surabhiyadav11.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/%E2%9C%A8%20MY%20PORTFOLIO-EXPLORE%20NOW-203A43?style=for-the-badge" />
+<img src="https://img.shields.io/badge/%E2%9C%A8%20MY%20PORTFOLIO-EXPLORE%20NOW-203A43?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/surabhii-yadav-1b885639/">
-<img src="https://img.shields.io/badge/%F0%9F%92%BC%20LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/%F0%9F%92%BC%20LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:surabhiiyadav3@gmail.com">
-<img src="https://img.shields.io/badge/%F0%9F%93%A7%20EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/%F0%9F%93%A7%20EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=surabhiyadav11&label=PROFILE%20VIEWS&color=203A43&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=surabhiyadav11&label=PROFILE%20VIEWS&color=203A43&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
@@ -42,9 +40,9 @@
 
 <br>
 
-I enjoy turning ideas into practical digital experiences and learning by building real-world projects.
+I'm a developer who enjoys turning ideas into **practical digital experiences** and learning by building real-world projects.
 
-I'm exploring **web development, backend systems, AI-powered applications, problem solving and modern developer tools**.
+I enjoy exploring different areas of technology — from **web development and backend systems to AI-powered applications, problem solving, and modern developer tools**.
 
 <div align="center">
 
@@ -66,7 +64,7 @@ I'm exploring **web development, backend systems, AI-powered applications, probl
 | 🤖 | AI & AI-powered Applications |
 | 🐍 | Python Development |
 | ⚡ | Backend & APIs |
-| 🛠️ | Developer Tools |
+| 🛠️ | Developer Tools & Workflows |
 | 🚀 | Real-World Projects |
 
 </div>
@@ -75,31 +73,37 @@ I'm exploring **web development, backend systems, AI-powered applications, probl
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
-<h3 align="center">💻 Languages</h3>
+<h3 align="center">💻 Programming Languages</h3>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,html,css" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js" />
 
 </div>
 
-<h3 align="center">🌐 Web & Backend</h3>
+<br>
+
+<h3 align="center">🌐 Web Development</h3>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,fastapi" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
 
 </div>
 
-<h3 align="center">🗄️ Databases</h3>
+<br>
+
+<h3 align="center">⚡ Backend & Databases</h3>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=fastapi,mongodb,mysql" />
 
 </div>
 
-<h3 align="center">🔧 Tools</h3>
+<br>
+
+<h3 align="center">🔧 Tools & Platforms</h3>
 
 <div align="center">
 
@@ -144,7 +148,9 @@ I'm exploring **web development, backend systems, AI-powered applications, probl
 
 <h3>🌾 Kisan Mitra</h3>
 
-A technology-driven platform focused on useful digital solutions for farmers.
+A technology-driven platform focused on creating useful digital solutions for farmers.
+
+<br>
 
 <b>Focus:</b>
 
@@ -163,7 +169,9 @@ A technology-driven platform focused on useful digital solutions for farmers.
 
 <h3>💰 Fynanz</h3>
 
-A smart expense-tracking web application for personal finance management.
+A smart expense-tracking web application designed to simplify personal finance management.
+
+<br>
 
 <b>Focus:</b>
 
@@ -188,6 +196,8 @@ A smart expense-tracking web application for personal finance management.
 
 An AI-oriented project exploring technology for Parkinson's-related screening.
 
+<br>
+
 <b>Focus:</b>
 
 🤖 Artificial Intelligence  
@@ -205,7 +215,9 @@ An AI-oriented project exploring technology for Parkinson's-related screening.
 
 <h3>🧩 DSA Practice</h3>
 
-My ongoing journey of strengthening problem-solving skills.
+My ongoing journey of strengthening problem-solving skills through coding practice.
+
+<br>
 
 <b>Focus:</b>
 
@@ -227,6 +239,8 @@ My ongoing journey of strengthening problem-solving skills.
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
+<br>
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=surabhiyadav11&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github" height="180"/>
@@ -243,6 +257,8 @@ My ongoing journey of strengthening problem-solving skills.
 
 <h2 align="center">📈 Contribution Activity</h2>
 
+<br>
+
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=surabhiyadav11&bg_color=00000000&color=203A43&line=2C5364&point=203A43&area=true&hide_border=true" width="95%"/>
@@ -253,12 +269,18 @@ My ongoing journey of strengthening problem-solving skills.
 
 <h2 align="center">🐍 Contribution Journey</h2>
 
+<br>
+
 <div align="center">
 
 <picture>
+
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/surabhiyadav11/surabhiyadav11/output/github-snake-dark.svg">
+
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/surabhiyadav11/surabhiyadav11/output/github-snake.svg">
+
 <img src="https://raw.githubusercontent.com/surabhiyadav11/surabhiyadav11/output/github-snake.svg" alt="GitHub Contribution Snake" width="900">
+
 </picture>
 
 </div>
@@ -267,15 +289,17 @@ My ongoing journey of strengthening problem-solving skills.
 
 <h2 align="center">🎯 Current Goals</h2>
 
+<br>
+
 <div align="center">
 
-| Goal | Progress |
+| 🎯 Goal | 🚀 Focus |
 |:---:|:---|
-| 🧠 | Strengthen DSA & problem solving |
-| 🌐 | Build better full-stack applications |
-| 🤖 | Explore practical AI applications |
-| 🚀 | Build meaningful real-world projects |
-| 🌱 | Keep learning & improving |
+| 🧠 | Strengthen DSA & Problem Solving |
+| 🌐 | Build Better Full-Stack Applications |
+| 🤖 | Explore Practical AI Applications |
+| 🚀 | Build Meaningful Real-World Projects |
+| 🌱 | Keep Learning & Improving |
 
 </div>
 
@@ -283,28 +307,30 @@ My ongoing journey of strengthening problem-solving skills.
 
 <h2 align="center">📚 Learning Journey</h2>
 
+<br>
+
 <div align="center">
 
 | Area | Focus |
 |:---:|:---|
-| 🧠 DSA | Data Structures • Algorithms • Problem Solving |
-| 🌐 Web | Frontend • Backend • APIs |
-| 🤖 AI | AI Tools • AI Applications |
-| 🐍 Python | Development • APIs • Projects |
-| 🗄️ Database | MongoDB • MySQL |
-| 🛠️ Tools | Git • GitHub • VS Code |
+| 🧠 **DSA** | Data Structures • Algorithms • Problem Solving |
+| 🌐 **Web** | Frontend • Backend • APIs |
+| 🤖 **AI** | AI Tools • AI Applications |
+| 🐍 **Python** | Development • APIs • Projects |
+| 🗄️ **Database** | MongoDB • MySQL |
+| 🛠️ **Tools** | Git • GitHub • VS Code |
 
 </div>
 
 ---
 
-<h2 align="center">🌐 Explore My Work</h2>
+<h2 align="center">🌟 Explore My Portfolio</h2>
 
 <div align="center">
 
 <a href="https://surabhiyadav11.github.io/Portfolio/">
 
-<img src="https://img.shields.io/badge/%E2%9C%A8%20EXPLORE%20MY%20PORTFOLIO-%E2%86%92%20OPEN%20PORTFOLIO%20%E2%86%90-203A43?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/%E2%9C%A8%20EXPLORE%20MY%20PORTFOLIO-%E2%86%92%20VISIT%20NOW%20%E2%86%90-203A43?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 
 </a>
 
@@ -318,6 +344,8 @@ My ongoing journey of strengthening problem-solving skills.
 
 <h2 align="center">🤝 Let's Connect</h2>
 
+<br>
+
 <div align="center">
 
 <a href="https://surabhiyadav11.github.io/Portfolio/">
@@ -328,7 +356,7 @@ My ongoing journey of strengthening problem-solving skills.
 <img src="https://img.shields.io/badge/%F0%9F%92%BC%20LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:surabhiiyadav3@gmail.com">
+<a href="mailto:surabhiyadav3@gmail.com">
 <img src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -340,8 +368,4 @@ My ongoing journey of strengthening problem-solving skills.
 
 <br>
 
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=130&section=footer&animation=twinkling" width="100%"/>
-
-</div>
