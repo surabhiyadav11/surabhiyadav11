@@ -171,18 +171,6 @@ A smart expense-tracking web application designed to help users manage and organ
 
 ---
 
-## 🎯 2026 Goals
-
-🧠 Strengthen **DSA & Problem Solving**
-
-🌐 Build better **Web Applications**
-
-☕ Improve **Java & OOP**
-
-🤖 Explore practical **AI Applications**
-
-💼 Prepare for **Software Engineering Internships**
-
 🚀 Build meaningful **real-world projects**
 
 ---
