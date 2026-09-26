@@ -21,8 +21,6 @@
 
 ---
 
-<!-- ======================= ABOUT ======================= -->
-
 ## 💫 About Me
 
 🎓 **B.Tech Computer Engineering Student**
@@ -33,79 +31,4 @@
 
 🌱 Exploring **Java, Python, JavaScript, AI and Backend Development**
 
-🚀 I enjoy turning ideas into practical projects and learning through building.
-
-📚 Always learning something new and improving my skills.
-
-> **Learn → Build → Solve → Improve → Repeat 🚀**
-
----
-
-<!-- ======================= PORTFOLIO ======================= -->
-
-## 🌐 My Portfolio
-
-<p align="center">
-  <a href="https://surabhiyadav11.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/✨%20EXPLORE%20MY%20PORTFOLIO%20✨-6C63FF?style=for-the-badge" />
-  </a>
-</p>
-
-<p align="center">
-  <b>Projects • Skills • Certifications • Experience • About Me</b>
-</p>
-
----
-
-<!-- ======================= LEARNING ======================= -->
-
-## 🌱 Currently Learning
-
-* 🧠 Data Structures & Algorithms
-* 💻 Java & Object-Oriented Programming
-* 🌐 Web Development
-* 🐍 Python
-* ⚡ Backend Development & APIs
-* 🤖 AI & Machine Learning
-* 🗄️ Databases
-* 🔧 Git & GitHub
-
----
-
-<!-- ======================= TECH STACK ======================= -->
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
-</p>
-
-### 🌐 Web Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
-### ⚡ Backend & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,mongodb,mysql" />
-</p>
-
-### 🔧 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
-</p>
-
----
-
-<!-- ======================= PROJECTS ======================= -->
-
-## 🚀 Featured Projects
-
-### 🌾 Kisan Mitra
-
-A technology-driven project focused on provid
+🚀 I enjoy turning ideas into practical projects and learning t
