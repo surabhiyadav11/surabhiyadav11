@@ -43,15 +43,24 @@
 
 ---
 
-### 📈 GitHub Stats & Activity
+### 🟩 GitHub Activity & Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surabhiyadav11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Surabhi's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surabhiyadav11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surabhiyadav11&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<!-- Green Contribution Graph Matrix -->
+<img src="https://ghchart.rshah.org/40c463/surabhiyadav11" alt="Surabhi's GitHub Green Contribution Graph" width="100%" />
+
+<br/><br/>
+
+<!-- Activity Metrics & Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api?username=surabhiyadav11&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Surabhi's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surabhiyadav11&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+
+<br/><br/>
+
+<!-- Streak Counter -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=surabhiyadav11&theme=github-green-theme&hide_border=true" alt="GitHub Streak" />
+
 </div>
 
 ---
