@@ -1,73 +1,68 @@
-<div align="center">
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=surabhiyadav11&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F244765846%3Fu%3Db16fdf0ff835b64b5e6e40e7b6b6f1622c25ebaf%26v%3D4" alt="surabhiyadav11 hero visual" />
+</p>
 
-# Hi there, I'm Surabhi Yadav! 👋
+<p align="center"><b>Surabhi Yadav</b> · Frontend or full-stack engineer<br/><sub>💻 Web Developer | DSA Learner | Building Real-World Projects 🚀</sub></p>
 
-### 💻 B.Tech Computer Engineering Student | Web Developer & Software Enthusiast
+<p align="center"><a href="https://github.com/surabhiyadav11">GitHub</a> · <a href="https://surabhiyadav11.github.io/Portfolio/">Website</a></p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=flat-square&logo=About.me&logoColor=white)](https://surabhiyadav11.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/surabhiyadav11)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/surabhiyadav11)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/surabhiyadav11)
+<details open>
+<summary><b>📌 Top projects</b></summary>
+<br/>
 
-</div>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=surabhiyadav11&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F244765846%3Fu%3Db16fdf0ff835b64b5e6e40e7b6b6f1622c25ebaf%26v%3D4" alt="surabhiyadav11 projects visual" />
+</p>
 
----
+- [placera](https://github.com/surabhiyadav11/placera) · ★ 1
+- [LeetCode-Practice](https://github.com/surabhiyadav11/LeetCode-Practice) · ★ 1
+- [kisan-mitra](https://github.com/surabhiyadav11/kisan-mitra) · ★ 1
+- [audio-particle-universe](https://github.com/surabhiyadav11/audio-particle-universe) · ★ 1
+- [StatMate](https://github.com/surabhiyadav11/StatMate) · ★ 0
+- [JAVA_CODING](https://github.com/surabhiyadav11/JAVA_CODING) · ★ 0
 
-### 🚀 About Me
-- 🎓 **Building foundations:** Second-year Computer Engineering undergraduate at VIT Pune.
-- 💡 **Core focus:** Full-Stack Web Development, Data Structures & Algorithms (C++/Java), and practical AI integrations.
-- 🛠️ **Hands-on approach:** Passionate about turning complex ideas into functional, scalable software applications.
-- ⚡ **Current Objective:** Strengthening problem-solving proficiency via Striver’s A2Z DSA sheet and building production-grade web tools.
+</details>
 
----
+<details>
+<summary><b>🧰 Stack</b></summary>
+<br/>
 
-### 🛠️ Tech Stack & Tools
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=surabhiyadav11&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F244765846%3Fu%3Db16fdf0ff835b64b5e6e40e7b6b6f1622c25ebaf%26v%3D4" alt="surabhiyadav11 stack visual" />
+</p>
 
-#### 💻 Programming Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+</details>
 
-#### 🌐 Web Development & Frameworks
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<details>
+<summary><b>📊 By the numbers</b></summary>
+<br/>
 
-#### 🗄️ Databases & Backend
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white)
+<b>16</b> public repositories, <b>4</b> stars, <b>235</b> contributions in the last year, a longest streak of <b>13</b> days and <b>8</b> followers.
 
-#### 🔧 Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=surabhiyadav11&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F244765846%3Fu%3Db16fdf0ff835b64b5e6e40e7b6b6f1622c25ebaf%26v%3D4" alt="surabhiyadav11 stats visual" />
+</p>
 
----
+</details>
 
-### 🚀 Featured Projects
+<details>
+<summary><b>🟩 Activity</b></summary>
+<br/>
 
-| Project | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **🌾 Kisan Mitra** | Smart agricultural web application providing crop recommendations and smart farming insights. | Python, HTML, CSS, JS | [Repository](https://github.com/surabhiyadav11/kisan-mitra) |
-| **🧠 NeuroScreen AI** | Healthcare screening platform analyzing voice patterns and motor kinematics for early detection signals. | Python, AI/ML, Flask | [Repository](https://github.com/surabhiyadav11/parkinson-screening-ai) |
-| **🌌 Audio Particle Universe** | Interactive real-time audio visualizer rendering dynamic particle systems mapped to sound waves. | React, Vite, Canvas, Web Audio API | [Repository](https://github.com/surabhiyadav11/audio-particle-universe) |
-| **📊 StatMate & Placera** | Utility tools and web application components engineered for performance and structured data tracking. | Python, HTML, CSS | [Repository](https://github.com/surabhiyadav11/placera) |
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=surabhiyadav11&theme=neon" alt="surabhiyadav11 contribution activity" />
+</p>
 
----
+</details>
 
-### 📊 GitHub Activity
+<details>
+<summary><b>👋 Say hello</b></summary>
+<br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surabhiyadav11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Surabhi's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surabhiyadav11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=surabhiyadav11&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F244765846%3Fu%3Db16fdf0ff835b64b5e6e40e7b6b6f1622c25ebaf%26v%3D4" alt="surabhiyadav11 social visual" />
+</p>
 
-<div align="center">
-  <img src="
+</details>
+
+<p align="center"><sub>Surabhi Yadav · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
