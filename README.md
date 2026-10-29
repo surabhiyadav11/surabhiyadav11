@@ -28,7 +28,7 @@ building cool stuff with AI 🤖
   <img src="https://www.gitskins.com/api/section/stats?username=surabhiyadav11&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F244765846%3Fu%3D666fed263a42760352f9ee3c6e888749692678c0%26v%3D4" alt="surabhiyadav11 stats visual" />
 </p>
 
-<p><code>272 contributions</code> · <code>9 day streak</code></p>
+
 
 ## Infrastructure shipped
 
