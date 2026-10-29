@@ -1,4 +1,4 @@
-## Delivery pipeline
+
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/hero?username=surabhiyadav11&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F244765846%3Fu%3D666fed263a42760352f9ee3c6e888749692678c0%26v%3D4" alt="surabhiyadav11 hero visual" />
@@ -16,11 +16,6 @@ COMMUNITY   = 9 followers</code></pre>
 building cool stuff with AI 🤖
 
 
-## Uptime in motion
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=surabhiyadav11&theme=github-dark" alt="surabhiyadav11 contribution activity" />
-</p>
 
 ## Service signals
 
