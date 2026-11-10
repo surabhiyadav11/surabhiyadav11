@@ -10,8 +10,8 @@
 
 <pre><code>ROLE        = Frontend or full-stack engineer
 LOCATION    = Pune, India.
-Linkdin     = https://www.linkedin.com/in/surabhi-yadav-1b8856390/?utm_source=chatgpt.com
-Portfolio   = https://surabhiyadav11.github.io/Portfolio/?utm_source=chatgpt.com
+Linkdin     = https://www.linkedin.com/in/surabhi-yadav-1b8856390/
+Portfolio   = https://surabhiyadav11.github.io/Portfolio/
 </code></pre>
 
 building cool stuff with AI 🤖
